@@ -1,0 +1,2 @@
+Sergei Position1 1000
+Kolya Position2 1500
